@@ -1,4 +1,4 @@
-# 🌴 Yieldbay UIkit
+# 💸 Stronghands UIkit
 
 [![Version](https://img.shields.io/npm/v/@yieldbay-libs/uikit)](https://www.npmjs.com/package/@yieldbay-libs/uikit) [![Size](https://img.shields.io/bundlephobia/min/@yieldbay-libs/uikit)](https://www.npmjs.com/package/@yieldbay-libs/uikit)
 
